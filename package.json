@@ -19,7 +19,6 @@
     "echarts-for-react": "^2.0.16",
     "echarts-gl": "^1.1.1",
     "moment": "^2.27.0",
-    "node-sass": "^7.0.1",
     "react": "^16.13.1",
     "react-awesome-modal": "^2.0.5",
     "react-big-calendar": "^0.26.0",
@@ -56,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.54.5"
   }
 }
